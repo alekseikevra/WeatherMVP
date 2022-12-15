@@ -2,7 +2,6 @@
 //  MainTableViewCell.swift
 //  MVP
 //
-//  Created by Denis Anatsky on 22.11.22.
 //
 
 import UIKit
